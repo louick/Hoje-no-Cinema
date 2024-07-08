@@ -1,0 +1,24 @@
+Metadata-Version: 2.0
+Name: twitter-text
+Version: 3.0
+Summary: A library for auto-converting URLs, mentions, hashtags, lists, etc. in Twitter text. Also does tweet validation and search term highlighting.  Fork of twitter-text-py, that supports python 3.  Originally by David Ryan, Py3 port by Glyph.
+Home-page: http://github.com/glyph/twitter-text-py
+Author: Glyph
+Author-email: twitter-text-587601@glyph.im
+License: BSD
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Web Environment
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Framework :: Django
+Requires-Dist: setuptools
+
+UNKNOWN
+
+
