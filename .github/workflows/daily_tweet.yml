@@ -3,7 +3,7 @@ name: Daily Movie Recommendation
 on:
   schedule:
     # Executa todos os dias às 10:00 UTC
-    - cron: '0 10 * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 jobs:
